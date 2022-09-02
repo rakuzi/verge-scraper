@@ -1,10 +1,8 @@
-import sys
 import logging
 import sqlite3
 import datetime
 import csv
 import feedparser
-import time
 
 
 class RSSItem:
